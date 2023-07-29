@@ -9,3 +9,97 @@
 2023-07-16 17:08:04 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
 2023-07-16 17:08:09 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
 2023-07-16 19:27:31 DEBUG ConsumerServiceImpl:31 - Node: Doc message is received
+2023-07-26 22:06:25 DEBUG ConsumerServiceImpl:38 - Node: Photo message is received
+2023-07-26 22:06:35 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-26 22:06:38 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-26 22:06:41 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-26 22:06:44 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-29 17:18:35 DEBUG ConsumerServiceImpl:31 - Node: Doc message is received
+2023-07-29 17:19:20 DEBUG ConsumerServiceImpl:38 - Node: Photo message is received
+2023-07-29 17:20:11 DEBUG ConsumerServiceImpl:38 - Node: Photo message is received
+2023-07-29 17:22:46 DEBUG ConsumerServiceImpl:38 - Node: Photo message is received
+2023-07-29 17:26:47 DEBUG ConsumerServiceImpl:38 - Node: Photo message is received
+2023-07-29 23:56:54 DEBUG ConsumerServiceImpl:38 - Node: Photo message is received
+2023-07-29 23:57:07 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-29 23:57:09 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-29 23:57:20 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-29 23:57:20 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:00:36 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:00:38 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:02:24 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:02:27 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:02:52 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:03:30 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:03:31 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:04:03 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:04:08 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:10:05 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:10:06 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:10:07 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:10:14 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:11:33 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:11:33 ERROR MainServiceImpl:61 - Unknown user state: null
+2023-07-30 00:11:35 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:11:38 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:11:40 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:11:46 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:11:46 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:12:58 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:12:58 ERROR MainServiceImpl:61 - Unknown user state: null
+2023-07-30 00:12:59 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:13:13 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:13:13 ERROR MainServiceImpl:61 - Unknown user state: null
+2023-07-30 00:13:18 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:13:28 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:13:28 ERROR MainServiceImpl:61 - Unknown user state: null
+2023-07-30 00:13:45 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:13:49 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:13:53 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:14:09 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:14:46 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:14:48 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:14:54 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:14:56 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:14:59 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:15:02 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:15:32 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:15:32 ERROR MainServiceImpl:61 - Unknown user state: null
+2023-07-30 00:17:20 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:17:31 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:17:31 ERROR MainServiceImpl:61 - Unknown user state: null
+2023-07-30 00:17:35 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:20:00 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:20:05 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:20:05 ERROR MainServiceImpl:61 - Unknown user state: null
+2023-07-30 00:20:12 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:20:12 ERROR MainServiceImpl:61 - Unknown user state: null
+2023-07-30 00:20:31 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:20:41 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:20:41 ERROR MainServiceImpl:61 - Unknown user state: null
+2023-07-30 00:22:44 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:22:52 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:22:54 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:23:03 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:23:03 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:25:00 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:25:01 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:25:57 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:26:00 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:27:31 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:27:47 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:27:53 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:27:54 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:28:33 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:28:33 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:33:20 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:33:22 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:33:24 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:34:31 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:34:54 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:35:06 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:35:40 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:36:05 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:36:05 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:38:38 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:38:39 DEBUG ConsumerServiceImpl:24 - Node: Text message is received
+2023-07-30 00:38:46 DEBUG ConsumerServiceImpl:24 - Node: Text message is received

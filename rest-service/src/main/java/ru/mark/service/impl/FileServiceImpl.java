@@ -10,6 +10,7 @@ import ru.mark.entity.AppDocument;
 import ru.mark.entity.AppPhoto;
 import ru.mark.entity.BinaryContent;
 import ru.mark.service.FileService;
+import ru.mark.util.CryptoTool;
 
 import java.io.File;
 import java.io.IOException;
@@ -19,23 +20,25 @@ import java.io.IOException;
 public class FileServiceImpl implements FileService {
     private final AppDocumentDAO appDocumentDAO;
     private final AppPhotoDAO appPhotoDAO;
+    private final CryptoTool cryptoTool;
 
-    public FileServiceImpl(AppDocumentDAO appDocumentDAO, AppPhotoDAO appPhotoDAO) {
+    public FileServiceImpl(AppDocumentDAO appDocumentDAO, AppPhotoDAO appPhotoDAO, CryptoTool cryptoTool) {
         this.appDocumentDAO = appDocumentDAO;
         this.appPhotoDAO = appPhotoDAO;
+        this.cryptoTool = cryptoTool;
     }
 
     @Override
     public AppDocument getDocument(String docId) {
-        //TODO добавить дешефрование хеш-строки
-        var id = Long.parseLong(docId);
+        var id = cryptoTool.idOf(docId);
+        if(id == null) return null;
         return appDocumentDAO.findById(id).orElse(null);
     }
 
     @Override
     public AppPhoto getPhoto(String photoId) {
-        //TODO добавить дешефрование хеш-строки
-        var id = Long.parseLong(photoId);
+        var id = cryptoTool.idOf(photoId);
+        if(id == null) return null;
         return appPhotoDAO.findById(id).orElse(null);
     }
 
